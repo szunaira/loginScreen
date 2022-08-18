@@ -14,7 +14,7 @@ class loginpg extends StatelessWidget {
     return Scaffold(
         body: Center(
       child: Padding(
-        padding: const EdgeInsets.all(120.0),
+        padding: const EdgeInsets.all(130.0),
         child: Column(
           //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
